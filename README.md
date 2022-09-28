@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chenyl8848&show_icons=true&theme=tokyonight)](https://github.com/chenyl8848)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenyl8848&show_icons=true&theme=tokyonight)](https://github.com/chenyl8848)
 
+## 今年汇总 ✨
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=chenyl8848&show_icons=true&theme=tokyonight&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenyl8848&show_icons=true&theme=tokyonight&locale=cn" />
+
