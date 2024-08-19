@@ -8,6 +8,3 @@
 
 <img align="" height="180px" src="https://chen-coding.oss-cn-shenzhen.aliyuncs.com/%E5%85%AC%E4%BC%97%E5%8F%B7.png" />
 
-<! --# 项目汇总 🚩
-<img align="" height="180px" src="https://github-readme-stats.vercel.app/api?username=chenyl8848&hide_title=true&hide_border=true&show_icons=true&theme=tokyonight&locale=cn" /><img align="" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenyl8848&hide_title=true&hide_border=true&show_icons=true&theme=tokyonight&locale=cn" /> -->
-
