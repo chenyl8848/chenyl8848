@@ -6,5 +6,5 @@
 - ⚡ 干货：[公众号@Java陈序员](https://chen-coding.oss-cn-shenzhen.aliyuncs.com/qrcode_for_gh_b840974cfe99_430.jpg)|[B站@Java陈序员](https://space.bilibili.com/402482994)
 - 🎸 博客：[CSDN@Java陈序员](https://blog.csdn.net/weixin_43400476?spm=1000.2115.3001.5343)|[知乎@Java陈序员](https://www.zhihu.com/creator/manage/creation/all)|[掘金@Java陈序员](https://juejin.cn/user/3958702402176765)|[今日头条@Java陈序员](https://mp.toutiao.com/profile_v4/manage/content/all)
 
-<img align="" height="180px" src="https://chen-coding.oss-cn-shenzhen.aliyuncs.com/%E5%85%AC%E4%BC%97%E5%8F%B7.png" />
+<img align="" height="180px" src="https://chencoding.top:8090/public/_media/logo_2.webp" />
 
